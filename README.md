@@ -1,4 +1,6 @@
-## Hi there 👋
+## Shwmae! 👋
+
+I'm a Research Software Engineer based at the UK's National Oceanography Centre. My research interests include embedded computing, computer vision and bioinformatics. I'm currently working on real-time organism identification and tracking for autonomous undersea vehicles, alongside shipboard systems for rapid, automated plankton identification.
 
 <!--
 **habaldwin01/habaldwin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
